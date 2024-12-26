@@ -17,7 +17,6 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
 | Alat Pemrogram | USB FTDI |
 | Driver | CDM FTDI USB Driver |
 | Protokol Komunikasi | Universal Asynchronous Receiver-Transmitter (UART) |
-| Arsitektur IoT | 3 Lapisan |
 | Dukungan Aplikasi | • STM32CubeProgrammer<br>• Bluetooth RC Controller |
 | Bahasa Pemrograman | C/C++ |
 | Aktuator | Motor Gear / Motor DC (x2) |

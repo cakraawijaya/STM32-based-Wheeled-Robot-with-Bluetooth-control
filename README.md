@@ -17,7 +17,6 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
 | Programmer Tools | FTDI USB |
 | Driver | CDM FTDI USB Driver |
 | Communications Protocol | Universal Asynchronous Receiver-Transmitter (UART) |
-| IoT Architecture | 3 Layer |
 | Application Support | • STM32CubeProgrammer<br>• Bluetooth RC Controller |
 | Programming Language | C/C++ |
 | Actuators | Gear Motor / Motor DC (x2) |
