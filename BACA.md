@@ -196,17 +196,26 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
    
    • Kode program yang telah tertanam dalam ``` board STM32 ``` ini siap untuk dioperasikan (sudah tidak ada aktivitas pemrograman lagi).
 
-   • Untuk menghidupkan ``` board STM32F1 ``` ini, anda dapat menggunakan catu daya eksternal seperti baterai atau yang lainnya.<br><br><br>
+   • Untuk menghidupkan ``` board STM32F1 ``` ini, anda dapat menggunakan catu daya eksternal seperti baterai atau yang lainnya.
 
-<strong>Catatan :</strong>
+<br><br>
 
-<table><tr><td width="840">
+## Catatan
+<blockquote>
+   <h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Penting</h3>
+   <ul>
+   <li>
 
-   • Untuk mengunggah program, selain menggunakan ``` USB FTDI ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` ST-Link/V2 ```, ``` USB CP2102 ```, ``` USB CH340 ```, atau dengan ``` USB PL2303 ```.
+   Untuk mengunggah program, selain menggunakan ``` USB FTDI ```, anda juga dapat menggunakan alat pemrogram lainnya seperti: ``` ST-Link/V2 ```, ``` USB CP2102 ```, ``` USB CH340 ```, atau dengan ``` USB PL2303 ```.
 
-   • Berdasarkan pengalaman, saya akui bahwa penggunaan ``` ST-Link/V2 ``` ini jauh lebih baik daripada alat pemrogram lainnya karena diketahui kinerjanya lebih stabil. ``` ST-Link/V2 ``` juga memiliki kekurangan yaitu hanya dapat digunakan pada board ``` STM32 ``` dan ``` STM8 ``` saja.
-   
-</td></tr></table>
+   </li>
+   <li>
+
+   Berdasarkan pengalaman, saya akui bahwa penggunaan ``` ST-Link/V2 ``` ini jauh lebih baik daripada alat pemrogram lainnya karena diketahui kinerjanya lebih stabil. ``` ST-Link/V2 ``` juga memiliki kekurangan yaitu hanya dapat digunakan pada board ``` STM32 ``` dan ``` STM8 ``` saja.
+
+   </li>
+   </ul>
+</blockquote>
 
 <br><br>
 

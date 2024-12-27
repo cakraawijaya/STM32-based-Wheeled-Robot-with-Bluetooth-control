@@ -196,17 +196,26 @@ Basically, a device can be communicated with other devices either wirelessly or 
    
    • The program code that has been embedded in this ``` STM32 board ``` is ready for operation (no more programming activities).
 
-   • To power up this ``` STM32F1 board ```, you can use an external power supply such as a battery or something else.<br><br><br>
+   • To power up this ``` STM32F1 board ```, you can use an external power supply such as a battery or something else.
 
-<strong>Notes :</strong>
+<br><br>
 
-<table><tr><td width="840">
+## Notes
+<blockquote>
+   <h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Important</h3>
+   <ul>
+   <li>
    
-   • To upload programs, in addition to using the ``` FTDI USB ```, you can also use other programmers such as: ``` ST-Link/V2 ```, ``` CP2102 USB ```, ``` CH340 USB ```, or with ``` PL2303 USB ```.
-
-   • Based on experience, I admit that using the ``` ST-Link/V2 ``` is much better than other programmers because it is known to be more stable in performance. ``` ST-Link/V2 ``` also has the disadvantage that it can only be used on ``` STM32 ``` and ``` STM8 ``` boards.
-
-</td></tr></table>
+   To upload programs, in addition to using the ``` FTDI USB ```, you can also use other programmers such as: ``` ST-Link/V2 ```, ``` CP2102 USB ```, ``` CH340 USB ```, or with ``` PL2303 USB ```.
+   
+   </li>
+   <li>
+   
+   Based on experience, I admit that using the ``` ST-Link/V2 ``` is much better than other programmers because it is known to be more stable in performance. ``` ST-Link/V2 ``` also has the disadvantage that it can only be used on ``` STM32 ``` and ``` STM8 ``` boards.
+   
+   </li>
+   </ul>
+</blockquote>
 
 <br><br>
 
