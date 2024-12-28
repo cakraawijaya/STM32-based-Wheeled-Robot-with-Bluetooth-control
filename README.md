@@ -198,9 +198,9 @@ Basically, a device can be communicated with other devices either wirelessly or 
 
    • To power up this ``` STM32F1 board ```, you can use an external power supply such as a battery or something else.
 
-<br><br>
+<br>
 
-<h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Important :</h3>
+<h3><img src="https://github.com/user-attachments/assets/932b96eb-cbc7-42f1-8938-43cb431889a5" width="16" height="16"> Notes :</h3>
 <blockquote>
    <ul>
    <li>
