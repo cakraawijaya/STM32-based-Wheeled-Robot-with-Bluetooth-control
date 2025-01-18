@@ -41,7 +41,7 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
    <table><tr><td width="810">
 
    ```
-   https://bit.ly/CDM_FTDI_USB_Driver
+   https://bit.ly/CDM_FTDI_USBdriver
    ```
 
    </td></tr></table><br>
@@ -51,7 +51,7 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
    <table><tr><td width="810">
    
    ```
-   https://bit.ly/STM32_Cube_Programmer_Installer
+   https://bit.ly/STM32CubeProgrammer_Installer
    ```
 
    </td></tr></table>
