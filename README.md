@@ -114,11 +114,11 @@ Basically, a device can be communicated with other devices either wirelessly or 
       How to setup the ``` STM32F103C8T6 ``` board
             
       </th></tr>
-      <tr><td>
+      <tr><td width="810">
          
       • Click ``` Tools ``` -> ``` Board ``` -> ``` Boards Manager ``` -> Install ``` STM32 MCU based boards ```.
 
-      • Then click ``` Tools ``` -> ``` Board ``` -> ``` STM32 boards groups ``` -> ``` Generic STM32F1 series ```.
+      • Then selecting a board by clicking: ``` Tools ``` -> ``` Board ``` -> ``` STM32 boards groups ``` -> ``` Generic STM32F1 series ```.
 
       </td></tr>
    </table><br>
