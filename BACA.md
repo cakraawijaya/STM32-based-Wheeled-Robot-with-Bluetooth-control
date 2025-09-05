@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-STM32-light.svg?style=flat&logo=STMicroelectronics&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# STM32-based-Wheeled-Robot-with-Bluetooth-control
+# STM32-based Wheeled Robot with Bluetooth control
 Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan oleh manusia secara langsung, namun sebenarnya robot juga dapat mengambil keputusannya sendiri jika diberi algoritma cerdas. Jenis robot yang sering dipakai dalam kegiatan sekolah yaitu robot beroda. Robot beroda adalah robot yang bergerak dengan menggunakan roda. Proyek ini dibuat pada dasarnya untuk memberikan edukasi kepada masyarakat luas tentang bagaimana cara membuat robot beroda yang sederhana. Proyek ini telah dilaksanakan dan memakan waktu kurang lebih 3 hari. Protokol komunikasi UART digunakan sebagai media untuk pertukaran data antara Bluetooth dengan board STM32. Sedangkan jenis UART yang dipakai berupa Hardware Serial. Manfaat dari pembuatan proyek ini tidak lain adalah untuk menambah wawasan. Hasil dari penelitian ini menunjukkan bahwa robot dapat bergerak sesuai dengan perintah pengguna.
 
 <br><br>
