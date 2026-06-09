@@ -13,7 +13,7 @@ Robot adalah alat yang mampu meringankan beban manusia. Robot dapat dikendalikan
 | Bagian | Deskripsi |
 | --- | --- |
 | Papan Pengembangan | STM32F103C8T6 |
-| Editor Kode | Arduino IDE |
+| Editor Kode | Arduino IDE 1.8.19 (Versi Lama yang Stabil) |
 | Alat Pemrogram | USB FTDI |
 | Driver | CDM FTDI USB Driver |
 | Protokol Komunikasi | Universal Asynchronous Receiver-Transmitter (UART) |
