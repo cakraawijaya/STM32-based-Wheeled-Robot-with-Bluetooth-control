@@ -13,7 +13,7 @@ Robots are tools that can ease the burden on humans. Robots can be controlled by
 | Part | Description |
 | --- | --- |
 | Development Board | STM32F103C8T6 |
-| Code Editor | Arduino IDE |
+| Code Editor | Arduino IDE 1.8.19 (Stable Legacy Version) |
 | Programmer Tools | FTDI USB |
 | Driver | CDM FTDI USB Driver |
 | Communications Protocol | Universal Asynchronous Receiver-Transmitter (UART) |
