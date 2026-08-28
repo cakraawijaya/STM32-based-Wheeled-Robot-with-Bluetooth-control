@@ -155,7 +155,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
 
    </td></tr></table><br>
 
-8. Before uploading the program please click: ``` Verify ```.<br><br>
+8. Before uploading the program, please click: ``` Verify ```.<br><br>
 
 9. If there is no error in the program code, the next step is to use the ``` STM32 ``` programming tool according to the procedure. Then click: ``` Upload ```.<br><br>
 
